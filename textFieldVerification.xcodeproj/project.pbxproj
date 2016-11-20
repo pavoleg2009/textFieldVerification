@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					2802AD2E1DE18DFF0030F59E = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = 4Y4DUJVCEZ;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -258,6 +259,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4Y4DUJVCEZ;
 				INFOPLIST_FILE = textFieldVerification/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.just-eng.textFieldVerification";
@@ -270,6 +272,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4Y4DUJVCEZ;
 				INFOPLIST_FILE = textFieldVerification/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.just-eng.textFieldVerification";
